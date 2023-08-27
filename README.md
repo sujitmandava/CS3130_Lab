@@ -1,2 +1,1 @@
-__Name__:Sujit Mandava
-__Rollno__:112001043
+This repository contains all the assignments undertaken as a part of the Paradigms of Programming Lab (CS3130) course. 
